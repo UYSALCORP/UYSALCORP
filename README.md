@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm UYSALCORP</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
-
+![giphy](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmdqdnp3OXdubmlzN3RibjVwZHJueXRtNHpveXFxeWk0cGJieXkwbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif)
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=uysalcorp" alt="uysalcorp" /></a> </p>
-![giphy](https://github.com/user-attachments/assets/30261698-163a-449e-b5cd-d38a0d48f282)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/yunus-emre-uysal-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yunus-emre-uysal-" height="30" width="40" /></a>
