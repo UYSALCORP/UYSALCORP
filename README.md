@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm UYSALCORP</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
-![giphy](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmdqdnp3OXdubmlzN3RibjVwZHJueXRtNHpveXFxeWk0cGJieXkwbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif)
+![](https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif?cid=ecf05e47m3it0rp5kdz9603ojkt62q620l3ee7rs4405gctv&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=uysalcorp" alt="uysalcorp" /></a> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
