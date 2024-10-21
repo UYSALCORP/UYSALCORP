@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm UYSALCORP</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
-
+![giphy](https://github.com/user-attachments/assets/30261698-163a-449e-b5cd-d38a0d48f282)
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=uysalcorp" alt="uysalcorp" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
