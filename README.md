@@ -1,5 +1,7 @@
 ![Header](./github-header-image.png)
 <h3 align="center">A passionate frontend developer from Turkey.</h3>
+
+![Giphy](./profile.gif)
 - 📫 How to reach me **uysalcorp@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
