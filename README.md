@@ -111,10 +111,11 @@
 
 
 ## Github Stats  
-<div><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UYSALCORP&hide_border=true&layout=compact" align="left" />  
-<img src="https://github-readme-stats.vercel.app/api?username=UYSALCORP&show_icons=true&count_private=true&hide_border=true" align="right" /></div>
+![](https://github-readme-stats.vercel.app/api?username=UYSALCORP&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://nirzak-streak-stats.vercel.app/?user=UYSALCORP&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=UYSALCORP&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
+### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
