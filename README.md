@@ -1,18 +1,19 @@
-[![](https://visitcount.itsvg.in/api?id=UYSALCORP&icon=1&color=5)](https://visitcount.itsvg.in)
-![Header](./github-header-image.png)
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=UYSALCORP&&style=flat-square" align="center" />
+</div>  
 
+
+</td><td valign="top" width="50%">
 
 <div align="right">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/yunus-emre-uysal-/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
 
-<div align="right">
-<img src="https://komarev.com/ghpvc/?username=UYSALCORP&&style=flat-square" align="right" />
-</div>  
-  
+[![](https://visitcount.itsvg.in/api?id=UYSALCORP&icon=1&color=5)](https://visitcount.itsvg.in)
+![Header](./github-header-image.png)
+
 
 <br/>  
 
